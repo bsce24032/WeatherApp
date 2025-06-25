@@ -11,9 +11,9 @@ A simple React weather application built with OpenWeatherMap API.
 ## Getting Started
 
 1. Clone the repo
-2. Install dependencies
+2. Install dependencies : npm install
 3. Add your OpenWeatherMap API key:  
-4. npm start
+4. npm run dev
 
 License
 
